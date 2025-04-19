@@ -7,7 +7,6 @@ Este é o meu projeto DevLinks, criado como parte da disciplina Programação We
 
 - Exibe meus links do GitHub e LinkedIn.
 - Alterna entre modo claro e modo escuro.
-- Exibe minha foto de perfil com a opção de alternar entre as versões clara e escura.
 
 # Como usar
 
